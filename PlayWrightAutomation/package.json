@@ -19,7 +19,8 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "reflect-metadata": "^0.2.2"
   },
   "directories": {
     "test": "tests"

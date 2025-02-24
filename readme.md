@@ -176,6 +176,10 @@ npx playwright codegen https://www.google.com
 
 4. Save the Generated Code: Copy the generated code from the terminal and paste it into your test file.
 
+### Playwright tets run extension
+
+Install Playwright Test for VSCode rom market place
+
 ### Extra Notes
 
 Now, once you provided this from your keyboard type ift command P are ift control P so that it
