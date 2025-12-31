@@ -178,7 +178,7 @@ npx playwright codegen https://www.google.com
 
 ### Playwright tets run extension
 
-Install Playwright Test for VSCode rom market place
+Install Playwright Test for VSCode rom market place. Then you will get an option to run tests from View --> Testing
 
 ### Extra Notes
 
